@@ -109,6 +109,12 @@ img { max-width: 100%; display: block; }
     transform: translateY(-1px);
 }
 
+.nav-github {
+    font-size: 1.05rem;
+    display: flex;
+    align-items: center;
+}
+
 .hamburger {
     display: none;
     flex-direction: column;
